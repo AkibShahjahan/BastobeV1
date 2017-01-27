@@ -1,0 +1,6 @@
+framework module Pods_BastobeTests {
+  umbrella header "Pods-BastobeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (3.5.1)
+  - AWSCore (2.3.6)
+  - AWSS3 (2.3.6):
+    - AWSCore (= 2.3.6)
+  - CameraEngine (0.9.3)
+  - DateTools (1.7.0)
+  - GoogleMaps (2.1.1):
+    - GoogleMaps/Maps (= 2.1.1)
+  - GoogleMaps/Base (2.1.1)
+  - GoogleMaps/Maps (2.1.1):
+    - GoogleMaps/Base
+  - GooglePlaces (2.1.1):
+    - GoogleMaps/Base (= 2.1.1)
+  - SCRecorder (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - AWSCore (~> 2.3.3)
+  - AWSS3 (~> 2.3.3)
+  - CameraEngine
+  - DateTools
+  - GoogleMaps
+  - GooglePlaces
+  - SCRecorder
+
+SPEC CHECKSUMS:
+  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  AWSCore: 917d84b32974136194a905b98c0ae25c9f3350b8
+  AWSS3: 1caaf6b45100503fecf3d418c394519a89409a74
+  CameraEngine: e24a801f76bfb2e5ff61b11592f82dfc1b4dafc9
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  GoogleMaps: a5b5bbe47734e2443bde781a6aa64e69fdb6d785
+  GooglePlaces: 35636d86e5020cba3856eb988c09a5491de0a65a
+  SCRecorder: bbb521dbc222908876ec9cd9156bbc8a893bed44
+
+PODFILE CHECKSUM: 8c8e4079f6953cec161f7de82010edd430221df3
+
+COCOAPODS: 1.1.0.rc.2
